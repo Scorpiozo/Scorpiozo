@@ -1,14 +1,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071923,45:087E8B,100:5CE1E6&text=SCORPIOZO&fontColor=E8FFFF&fontSize=58&fontAlignY=48&desc=CODE%20%2F%2F%20CREATE%20%2F%2F%20OPTIMIZE&descAlignY=68&descSize=16" width="100%" alt="Scorpiozo cyan cyber banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071923,50:087E8B,100:5CE1E6&height=220&section=header&text=SCORPIOZO&fontColor=E8FFFF&fontSize=58&fontAlignY=40&desc=CODE%20%2F%2F%20CREATE%20%2F%2F%20OPTIMIZE&descAlignY=60&descSize=16" width="100%" alt="Scorpiozo cyan waving header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=5CE1E6&center=true&vCenter=true&width=650&lines=Exploring+the+intersection+of+code+and+ideas;Building+projects+that+solve+real+problems;AI+%7C%7C+Data+%7C%7C+Software+Development;Always+learning.+Always+experimenting." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=00A6B2&center=true&vCenter=true&width=600&height=100&lines=%3E+INITIALIZING+SCORPIOZO...;%3E+LOADING+DEVELOPER+MODULES...;%3E+AI+%7C%7C+DATA+%7C%7C+SOFTWARE;%3E+SYSTEM+STATUS%3A+BUILDING_" alt="Animated developer boot sequence" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00A6B2&center=true&vCenter=true&width=650&lines=Exploring+the+intersection+of+code+and+ideas;Building+projects+that+solve+real+problems;AI+%7C%7C+Data+%7C%7C+Software+Development;Always+learning.+Always+experimenting." alt="Animated introduction" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Scorpiozo-10232B?style=for-the-badge&logo=github&logoColor=5CE1E6)](https://github.com/Scorpiozo)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-10232B?style=for-the-badge&logo=git&logoColor=5CE1E6)](https://github.com/Scorpiozo?tab=repositories)
+![GitHub](https://img.shields.io/badge/GitHub-Scorpiozo-10232B?style=for-the-badge&logo=github&logoColor=5CE1E6) ![Repositories](https://img.shields.io/badge/Repositories-Explore-10232B?style=for-the-badge&logo=git&logoColor=5CE1E6)
 
 </div>
 
