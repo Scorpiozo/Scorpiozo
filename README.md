@@ -127,15 +127,6 @@ An application focused on debt management and optimization.
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Scorpiozo&hide_border=true&background=071923&ring=5CE1E6&fire=36BFCB&currStreakLabel=5CE1E6&sideLabels=D6EAF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=89AAB5" alt="GitHub contribution streak" />
 
-</div>
-
-## `05 / CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scorpiozo&bg_color=071923&color=5CE1E6&line=22B8C7&point=DFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
 
 ---
 
